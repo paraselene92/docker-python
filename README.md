@@ -47,3 +47,8 @@ cd /home/work/dotfiles
   - yapf
   - flake8
   - pudb
+
+## Version
+
+- v1.3
+  - Update Arch linux regularly.
