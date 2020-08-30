@@ -50,5 +50,7 @@ cd /home/work/dotfiles
 
 ## Version
 
+- v1.5
+  - Update base image `paraselene92/archlinux:1.5`
 - v1.3
   - Update Arch linux regularly. (Update base image `paraselene92/archlinux:1.3`)

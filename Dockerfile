@@ -1,4 +1,4 @@
-FROM paraselene92/archlinux:1.3
+FROM paraselene92/archlinux:1.5
 
 RUN mkdir /build &&\
   chown -R aur:aur /build
