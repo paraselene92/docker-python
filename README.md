@@ -49,7 +49,8 @@ cd /home/work/dotfiles
   - pudb
 
 ## Version
-
+- v1.6
+  - Update Arch linux regularly. (Update base image `paraselene92/archlinux:1.6`)
 - v1.5
   - Update base image `paraselene92/archlinux:1.5`
 - v1.3
