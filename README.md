@@ -28,6 +28,8 @@ cd /home/work/dotfiles
   - aur: for yay install
 
 ## Version
+- v1.71
+  - Update base image `paraselene92/archlinux:1.71`
 - v1.7
   - Update Arch linux regularly. (Update base image `paraselene92/archlinux:1.7`)
 - v1.6
