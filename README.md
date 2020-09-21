@@ -26,29 +26,10 @@ cd /home/work/dotfiles
 - Users
   - work: for work
   - aur: for yay install
-- Installed packages
-  - aws-cli-v2 (Build with PKGBUILD)
-    - [PKGBUILD](https://gist.githubusercontent.com/paraselene92/4d94969599366dadc8c8505dfaa03a9a/raw/80ab83c54187d9acc1682c478e1d0d59149ce640/PKGBUILD)
-  - neovim
-  - docker
-  - git
-  - jq
-  - man
-  - neovim
-  - openssh
-  - tig
-  - unzip
-  - vim
-- Python package
-  - python-pip
-  - python-botocore-v2-git
-  - pipenv
-  - autopep8
-  - yapf
-  - flake8
-  - pudb
 
 ## Version
+- v1.7
+  - Update Arch linux regularly. (Update base image `paraselene92/archlinux:1.7`)
 - v1.6
   - Update Arch linux regularly. (Update base image `paraselene92/archlinux:1.6`)
 - v1.5
